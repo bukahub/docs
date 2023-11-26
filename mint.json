@@ -31,8 +31,8 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "Buka",
+      "pages": ["introduction"]
     }
   ],
   "footerSocials": {
